@@ -56,6 +56,6 @@ Your application will be accessible at `http://localhost:3000`.
 
 ## Summary
 
-In summary, our application follows a Service-Oriented Architecture (SOA) with a focus on the "model," "controllers," and "routers" directories, along with key configurations in "index.js" and "connect.js." It offers CRUD functionality for both "Categories" and "Posts" entities, maintaining a robust and organized structure.
+In summary, our application focuses on the "model," "controllers," and "routers" directories, along with key configurations in "index.js" and "connect.js." It offers CRUD functionality for both "Categories" and "Posts" entities, maintaining a robust and organized structure.
 
 Feel free to modify and expand this readme to include any additional information, usage instructions, or other details relevant to your project.
